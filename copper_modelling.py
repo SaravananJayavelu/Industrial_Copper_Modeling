@@ -29,7 +29,7 @@ if selected == "Basic Overview":
     st.markdown("### :green[Overview :] In this project, the goal is to design and implement a machine learning model to predict the selling price and status. The model leverage historical data from past transactions in Copper to predict accurate prices. ")
     st.markdown("### :blue The primary objective is to learn about ML predictions but it also provides a valuable tool which can be used for multiple prediction purposes")
     st.markdown("### :green[Libraries Used :] Streamlit, Pandas, numpy, pickle, Sklearn - Decision Tree Regression, etc")
-    st.markdown("<h1 style='text-align: center; font-size: 40px; color: #ff0bab;'> <u> Created By HudsonSylvestorA </u> </h1", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; font-size: 40px; color: #ff0bab;'> </h1", unsafe_allow_html=True)
 
 if selected == "Data Prediction":
 
